@@ -4,13 +4,13 @@
 
 ## What is Morse Alerts?
 
-Morse Alerts converts your phone notifications into Morse code vibrations or sounds, allowing you to recognise messages without looking at your screen.
+Morse Alerts converts your phone notifications into Morse code vibrations, sounds or torch flashes, allowing you to recognise messages without looking at your screen.
 
 ---
 
 ## How does it work?
 
-The app reads incoming notifications and converts the text into Morse code, which is then played as vibration or audio on your phone and/or connected watch.
+The app reads incoming notifications and converts the text into Morse code, which is then played as vibration, audio or torch flashes on your phone and/or connected watch.
 
 ---
 
@@ -18,18 +18,17 @@ The app reads incoming notifications and converts the text into Morse code, whic
 
 Please check the following:
 
-- Notification access is enabled for Morse Alerts
-- The app you want to monitor (e.g. WhatsApp) is supported and enabled
-- Your phone is not restricting background activity
-- Battery optimisation is not preventing the app from running
+- You have turned on "Alerts Active" and / or "Enable Watch Alerts" on the Alerts Screen. This will take you through the setup process.
+- Notification access is enabled for Morse Alerts. You will be prompted to do this as part of the setup process. You can confirm that it is complete on the Status screen.
+- The app you want to monitor (e.g. WhatsApp) is supported and enabled. Check in the App Settings screen.
+- Your phone is not restricting background activity. You will be prompted to do this as part of the setup process. You can confirm that it is complete on the Status screen (Battery) 
+- Battery optimisation is not preventing the app from running. As above.
 
 ---
 
 ## How do I enable notification access?
 
-1. Open Morse Alerts  
-2. Follow the prompt or go to your device settings  
-3. Enable **Notification Access** for Morse Alerts  
+1. Open Morse Alerts and turn on "Alerts Active" on the Alerts screen. You will be prompted to complete setup.
 
 ---
 
@@ -43,11 +42,11 @@ Please check the following:
 
 ## Can I customise the Morse code speed and behaviour?
 
-Yes — with the Pro upgrade you can:
+Yes, you can:
 
 - Adjust pulse length and spacing
 - Change alert timing and structure
-- Configure per-app behaviour
+- Configure per-app behaviour (pro users)
 
 ---
 
@@ -57,6 +56,8 @@ The free version provides:
 
 - Pre-configured alerts for selected apps
 - Basic Morse output functionality
+- Morse Training
+- Enable notification logging
 
 ---
 
@@ -64,8 +65,9 @@ The free version provides:
 
 The Pro version allows:
 
-- Full customisation of Morse settings
-- Editable app configurations
+- Configure alerts for additional apps
+- Create new app configuration from a log entry
+- Edit default app configurations
 - Greater control over how alerts are delivered
 
 ---
@@ -103,12 +105,15 @@ Yes — Morse Alerts can send alerts to a connected Wear OS watch.
 ## Why are some notifications not converted?
 
 Some apps use custom notification formats that may not expose all text fields. This can affect how the message is interpreted.
+The free version only processes alerts for common apps.
+Check that you have added configuration for additional apps (pro users)
 
 ---
 
 ## Can I use Morse Alerts offline?
 
 Yes — the app works without an internet connection. However, certain features (like purchase validation) may require connectivity.
+Training mode does not require an internet connection.
 
 ---
 
@@ -116,7 +121,7 @@ Yes — the app works without an internet connection. However, certain features 
 
 If you need help or have suggestions, please contact:
 
-**Email:** your@email.com
+**Email:** morsealertsapp@gmail.com
 
 ---
 
