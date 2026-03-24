@@ -6,4 +6,4 @@ Morse Alerts converts your notifications into Morse code vibrations and sounds.
 
 - [Privacy Policy](privacy-policy.md)
 - [FAQ](faq.md)
-- [Terms of Use](terms-of-use)
+- [Terms of Use](terms-of-use.md)
