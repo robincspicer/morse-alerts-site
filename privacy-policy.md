@@ -88,4 +88,4 @@ Any changes will be reflected on this page.
 
 If you have any questions about this privacy policy, you can contact:
 
-**Email:** your@email.com
+**Email:** morsealertsapp@gmail.com
