@@ -27,11 +27,11 @@ Morse Alerts requires access to certain system features in order to function:
 
 ## 3. Data Storage
 
-- A **temporary message log** may be stored locally on your device for debugging or user reference purposes.
+- If you enable it, a **temporary message log** will be stored locally on your device for debugging or user reference purposes.
 - This log is:
   - Stored **only on your device**
   - Automatically deleted after **up to 24 hours**
-- No long-term storage of notification content is performed.
+- No long-term storage of notification content is performed. You can disable logging and / or clear the log at any time.
 
 ---
 
@@ -50,7 +50,7 @@ No data is sent over the internet or to external services.
 
 - Morse Alerts does **not collect personal information**
 - No account or login is required
-- No analytics, tracking, or advertising SDKs are used
+- No cookies, analytics, tracking, or advertising SDKs are used
 
 ---
 
